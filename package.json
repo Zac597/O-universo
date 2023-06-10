@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "stage06",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zac597/O-universo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zac597/O-universo/issues"
+  },
+  "homepage": "https://github.com/Zac597/O-universo#readme",
+  "description": ""
+}
